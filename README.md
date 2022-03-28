@@ -3,7 +3,6 @@
 This Repository contains a collection of Google Colab Notebooks that we will be using throughout the semester. 
 
 ## Flickr_Scraping 
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrober24/A.UD_289.84_seminar/blob/main/Flickr_Scraping.ipynb)
 
 ## Dataset_Prep
@@ -11,3 +10,6 @@ This Repository contains a collection of Google Colab Notebooks that we will be 
 
 ## StyleGAN3
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrober24/A.UD_289.84_seminar/blob/main/stylegan3.ipynb)
+
+## Text2Mesh
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrober24/A.UD_289.84_seminar/blob/main/text2mesh.ipynb)
