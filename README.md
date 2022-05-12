@@ -29,5 +29,8 @@ This Repository contains a collection of Google Colab Notebooks that we will be 
 ## Real-ESRGAN Supersampling
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrober24/A.UD_289.84_seminar/blob/main/Real_ESRGAN_Inference.ipynb)
 
+## ESRGAN-Video
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrober24/A.UD_289.84_seminar/blob/main/ESRGAN_Video.ipynb)
+
 ## SinGAN
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrober24/A.UD_289.84_seminar/blob/main/SinGAN.ipynb)
